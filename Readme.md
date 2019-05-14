@@ -1,7 +1,7 @@
 # Личный проект «Седона»
 
 * Студент: [Митя Козлов](https://up.htmlacademy.ru/htmlcss/25/user/851909).
-* Наставник: <a href="https://htmlacademy.ru/profile/jackson">[Евгений Бервяченок]</a> 
+* Наставник: <a href="https://htmlacademy.ru/profile/jackson">[Евгений Бервяченок]</a>
 
 ---
 
